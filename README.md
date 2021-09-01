@@ -22,16 +22,18 @@ Tested on a Jupyter environment
 
 - Python 3.6
 - Pandas
+- Matplotlib
+- Seaborn
 - PySpark ML v2.4.3
 
 ## File Descriptions
 
 - `README.md`: Overall information of the project
-- `Sparkify.ipynb`: Code for ETL, ML pipeline
+- `Sparkify.ipynb`: Code for data analysis and model building
 
 ## Results
 
-TODO: a summary of the results of the analysis
+Please find the summary of the analysis results in my blog post: [Churn Prediction Project: Learn from user activities and don't let them just go away!](https://kazuhirokomoda.medium.com/churn-prediction-project-learn-from-user-activities-and-dont-let-them-just-go-away-ea670e52cecc)
 
 ## Licensing, Authors, Acknowledgements
 
